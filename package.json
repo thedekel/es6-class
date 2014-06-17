@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "esprima": "git://github.com/ariya/esprima.git#harmony",
-    "recast": "^0.5.13",
+    "recast": "git://github.com/thedekel/recast.git",
     "ast-types": "^0.3.26",
     "through": "~2.3.4",
     "ast-util": "^0.0.5"

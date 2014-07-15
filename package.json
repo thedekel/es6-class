@@ -12,10 +12,10 @@
     "url": "git@github.com:square/es6-class.git"
   },
   "dependencies": {
-    "recast": "*",
-    "ast-types": "*",
+    "recast": "~0.6.3",
+    "ast-types": "~0.4.2",
     "through": "~2.3.4",
-    "ast-util": "*"
+    "ast-util": "~0.3.1"
   },
   "devDependencies": {
     "example-runner": "0.1.0",
